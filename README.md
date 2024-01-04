@@ -1,6 +1,6 @@
 # abdul-rehman<body>
   <div align="center">
-    <h1> Hi there, I'm Hammad Sheikh👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Abdul Rehman👋<a href="https://hammad-air.github.io/hammad/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -9,29 +9,21 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
 	
-👨‍💻 Lead NLP Developer at HandyHelps
 
-🔥 NLP & VUI Consultant and Web Developer 
+🔥  Web Developer 
 	
 💰 RISING TALENT at UPWORK ✅
 
-💸 LEVEL-01 SELLER of DIALOGFLOW on Fiverr
+💸 LEVEL-01 SELLER  on Fiverr
 	
-📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
 
 ✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 faisalabdulrehman97@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
-
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
-
-📷 Instagram : https://www.instagram.com/hammad2980/
  
 <h2>Tech Stack</h2>
 
